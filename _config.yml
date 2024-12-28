@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Nizar Benbouchta"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, this is my personal webpage. You can find stuff about my research, and a few blogposts about topics I am interested in."
+  bio              : "Hi, this is my personal webpage. You can find stuff about my research and a few blogposts"
   location         : "Paris, France"
-  employer         : "MAP5, Paris-Cité U"
+  employer         : "MAP5, Paris-Cité"
   uri              : #
   email            : "nizarbenbouchta@gmail.com" 
 
