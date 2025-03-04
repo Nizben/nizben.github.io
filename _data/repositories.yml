@@ -1,10 +1,10 @@
 github_users:
-  - abenechehab
+  - nizben
 
 repo_description_lines_max: 2
 
 github_repos:
-  - abenechehab/dicl
-  - abenechehab/sunrise
-  - abenechehab/Kernels-for-biological-sequences
-  - abenechehab/Tool-wear-classification
+  - nizben/Enhanced_transformer
+  - nizben/Demograd
+  - nizben/mcmc
+  - nizben/KeOps_attention

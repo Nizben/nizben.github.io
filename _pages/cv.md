@@ -1,6 +1,6 @@
 ---
 layout: page #cv
-permalink: /assets/pdf/CV-4.pdf #/cv/
+permalink: /assets/pdf/CV.pdf #/cv/
 title: cv
 nav: true
 new_tab: true

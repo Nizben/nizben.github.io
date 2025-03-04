@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Abdelhakim
+first_name: Nizar
 middle_name:
-last_name: Benechehab
-email: abdelhakim.benechehab@gmail.com
+last_name: Benbouchta
+email: nizarbenbouchta@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Abdelhakim Benechehab's personal website.
+  Nizar Benbouchta's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -316,8 +316,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Benechehab]
-  first_name: [Abdelhakim]
+  last_name: [Benbouchta]
+  first_name: [Nizar]
 
   style: apa
   locale: en
