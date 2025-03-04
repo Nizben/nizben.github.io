@@ -1,6 +1,6 @@
 ---
 layout: page
-title: podcast
+title: projects
 permalink: /projects/
 description: fvnejfn
 nav: true

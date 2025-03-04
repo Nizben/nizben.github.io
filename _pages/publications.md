@@ -14,7 +14,7 @@ nav_order: 1
 {% include bib_search.liquid %}
 
 <div class="publications">
-For a complete list, see my <a href="https://scholar.google.com/citations?user=JxgqOKwAAAAJ&hl=en"> Google Scholar</a>.
+For a complete list, see my <a href="jfkjzf"> Google Scholar</a>.
 {% bibliography %}
 
 </div>
