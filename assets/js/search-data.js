@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/example_pdf.pdf";
           },
-        },{id: "post-",
+        },{id: "post-introduction-to-mcmc-methods-from-importance-sampling-to-advanced-algorithms",
       
-        title: "",
+        title: "Introduction to MCMC methods: From importance sampling to advanced algorithms",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2024-08-28-mcmc/";
+          window.location.href = "/blog/2024/mcmc/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
