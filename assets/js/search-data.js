@@ -52,6 +52,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/demograd/";
         
       },
+    },{id: "post-making-sense-of-score-flow-and-diffusion-models",
+      
+        title: "Making sense of Score, Flow, and Diffusion models",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/score/";
+        
+      },
     },{id: "post-understanding-compiler-and-linker-flags",
       
         title: "Understanding compiler and linker flags",
