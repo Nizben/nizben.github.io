@@ -30,7 +30,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/example_pdf.pdf";
           },
-        },{id: "post-introduction-to-mcmc-methods-from-importance-sampling-to-advanced-algorithms",
+        },{id: "post-accelerating-3d-point-cloud-processing-with-a-kernel-enhanced-geometric-transformer",
+      
+        title: "Accelerating 3D point cloud processing with a kernel-enhanced geometric transformer",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/enhanced_transformer/";
+        
+      },
+    },{id: "post-building-an-autograd-engine-to-understand-automatic-differentiation-from-the-ground-up",
+      
+        title: "Building an Autograd engine to understand Automatic Differentiation from the ground up",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/demograd/";
+        
+      },
+    },{id: "post-understanding-compiler-and-linker-flags",
+      
+        title: "Understanding compiler and linker flags",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/compiler/";
+        
+      },
+    },{id: "post-image-and-video-quality-quantitative-metrics",
+      
+        title: "Image and video quality quantitative metrics",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/fid/";
+        
+      },
+    },{id: "post-introduction-to-mcmc-methods-from-importance-sampling-to-advanced-algorithms",
       
         title: "Introduction to MCMC methods: From importance sampling to advanced algorithms",
       
