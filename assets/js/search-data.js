@@ -74,17 +74,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/compiler/";
         
       },
-    },{id: "post-image-and-video-quality-quantitative-metrics",
-      
-        title: "Image and video quality quantitative metrics",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/fid/";
-        
-      },
     },{id: "post-introduction-to-mcmc-methods-from-importance-sampling-to-advanced-algorithms",
       
         title: "Introduction to MCMC methods: From importance sampling to advanced algorithms",
@@ -94,6 +83,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/mcmc/";
+        
+      },
+    },{id: "post-image-and-video-quality-quantitative-metrics",
+      
+        title: "Image and video quality quantitative metrics",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/fid/";
         
       },
     },{id: "books-the-godfather",
