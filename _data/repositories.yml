@@ -1,10 +1,14 @@
 github_users:
   - Nizben
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
-  - Nizben/Demograd
-  - Nizben/Enhanced_transformer
-  - Nizben/mcmc
-  - Nizben/KeOps_Attention
+  - repository: Nizben/Demograd
+    description: Demograd is a minimal autograd engine and neural network library built for educational purposes.
+  - repository: Nizben/Enhanced_transformer
+    description: Kernel-Enhanced Geometric Transformer for 3D Point Cloud Processing
+  - repository: Nizben/mcmc
+    description: A repository for exploring Markov Chain Monte Carlo (MCMC) methods through theory, pseudocode, and interactive Jupyter Notebook implementations
+  - repository: Nizben/KeOps_Attention  
+    description: A KeOps based Attention implementation
