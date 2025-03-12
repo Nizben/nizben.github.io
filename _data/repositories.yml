@@ -5,10 +5,10 @@ repo_description_lines_max: 3
 
 github_repos:
   - repository: "Nizben/Demograd"
-    description: "Demo project for showcasing X features."
+    description: 
   - repository: "Nizben/Enhanced_transformer"
-    description: "Enhanced transformer implementation for Y tasks."
+    description: 
   - repository: "Nizben/mcmc"
-    description: "Monte Carlo Markov Chain algorithms explained."
+    description: 
   - repository: "Nizben/KeOps_Attention"
-    description: "Implementation of KeOps-based attention modules."
+    description: 
