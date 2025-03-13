@@ -10,5 +10,5 @@ github_repos:
     description: 
   - repository: "Nizben/mcmc"
     description: 
-  - repository: "Nizben/KeOps_Attention"
+  - repository: "Nizben/KeOps_benchmarks"
     description: 
