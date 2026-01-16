@@ -186,6 +186,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/nizar-ben-bouchta-6a48a7146", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=ZA6KRBwAAAAJ", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
