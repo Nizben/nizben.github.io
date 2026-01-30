@@ -35,7 +35,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/cv_map.pdf";
+            window.location.href = "/assets/pdf/CV_Janvier26.pdf";
           },
         },{id: "post-accelerating-3d-point-cloud-processing-with-a-kernel-enhanced-geometric-transformer",
       
